@@ -4,7 +4,7 @@ Listing online resources where one can know more about [Advaita Vedanta](https:/
 ## Websites and Blogs
 * [Discover Vedanta](http://www.discovervedanta.com/)
 * [Advaita Vision](https://www.advaita-vision.org/)
-* [EStudentedaVedanta](estudantedavedanta.net/) 🇧🇷
+* [EStudentedaVedanta](http://www.estudantedavedanta.net/) 🇧🇷
 
 ## Youtube Channels
 * [Vedanta Society of New York](https://www.youtube.com/channel/UCZOKv_xnTzyLD9RJmbBUV9Q) (The Ramakrishna Order)
